@@ -18,6 +18,7 @@ function App() {
             <Main />
           </h1>
         </main>
+        <h1>hello world</h1>
       </div>
     </div>
   );
